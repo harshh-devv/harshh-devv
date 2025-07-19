@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harsh Jogadiya</h1>
 <h3 align="center">A passionate Fronted developer from India</h3>
 
-<p align="center"><img align="center" width="400" alt="image" src="https://github.com/user-attachments/assets/d017e5ed-a1de-41c4-964c-30ac246ebf7e" /> </p>
+<p align="center"><img align="right" width="400" alt="image" src="https://github.com/user-attachments/assets/d017e5ed-a1de-41c4-964c-30ac246ebf7e" /> </p>
 
 
 
