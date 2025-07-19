@@ -1,3 +1,4 @@
+![logo](fdimg.webp)
 <h1 align="center">Hi 👋, I'm Harsh Jogadiya</h1>
 <h3 align="center">A passionate Fronted developer from India</h3>
 
