@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Harsh Jogadiya</h1>
 <h3 align="center">A passionate Website developer from India</h3>
-<img align="right" alt="coding" width="400" src="gif.gif">
+<img align="right" alt="coding" width="400" src="im.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshh-devv&label=Profile%20views&color=0e75b6&style=flat" alt="harshh-devv" /> </p>
-
-- 📫 How to reach me **harshjogadiya001@gmail.com**
 
 - ⚡ Fun fact **I am funny😅**
 
